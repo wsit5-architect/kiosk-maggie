@@ -1,0 +1,15 @@
+  "users": [
+    {
+      "student_id": "12345",
+      "full_name": "John Doe",
+      "email": "jdoe@georgefox.edu",
+      "role": "student"
+    },
+    {
+      "student_id": "67890",
+      "full_name": "Jane Smith",
+      "email": "jsmith@georgefox.edu",
+      "role": "faculty"
+    }
+  ]
+}
